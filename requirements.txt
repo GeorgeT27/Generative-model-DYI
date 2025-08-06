@@ -19,7 +19,6 @@ tqdm>=4.64.0
 psutil>=5.8.0
 
 # Morpho-MNIST dataset
-morpho-mnist>=1.3.0
 
 # Build tools
 setuptools>=65.0.0
